@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Im currently working  Hayleys Fentons in srilanaka as a intern<br><br>🌱 I’m currently learning C# , .NET<br><br>📫 How to reach me hewageuvindu@gmail.com<br><br>⚡ Fun fact Once, while debugging a day-night cycle feature, I spent hours <br>      searching for the issue, only to discover it was a missing semicolon hiding in <br>      plain sight! 🌞🌙😅
+👨‍💻 I'm currently working as an intern at Hayleys Fentons in Sri Lanka.<br><br>🌱 I’m currently learning C# , .NET<br><br>📫 How to reach me hewageuvindu@gmail.com<br><br>⚡ Fun fact Once, while debugging a day-night cycle feature, I spent hours <br>      searching for the issue, only to discover it was a missing semicolon hiding in <br>      plain sight! 🌞🌙😅
 
 
 ## 🌐 Socials:
